@@ -14,7 +14,7 @@ services:
 
 #GLPI Container
   glpi:
-    image: deogells/glpi-mirante
+    image: deogells/glpi-mirante:${TAG}
     container_name : glpi-dev
     hostname: glpi
     ports:
