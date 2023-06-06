@@ -32,7 +32,7 @@
  *
  * ---------------------------------------------------------------------
  */
-//
+
 // Check PHP version not to have trouble
 // Need to be the very fist step before any include
 if (
