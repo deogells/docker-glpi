@@ -32,7 +32,7 @@
  *
  * ---------------------------------------------------------------------
  */
-
+//
 use Glpi\System\Status\StatusChecker;
 
 include('./inc/includes.php');
