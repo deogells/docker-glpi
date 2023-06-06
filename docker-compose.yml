@@ -14,7 +14,7 @@ services:
 
 #GLPI Container
   glpi:
-    image: diouxx/glpi
+    image: deogells/glpi-mirante
     container_name : glpi
     hostname: glpi
     ports:
